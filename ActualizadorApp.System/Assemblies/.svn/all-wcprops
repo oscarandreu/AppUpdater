@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies
+END
+ApexSql.Common.Scripting.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.Scripting.dll
+END
+ApexSql.Common.ScriptMetadata.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.ScriptMetadata.dll
+END
+ApexSql.Common.Decry.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.Decry.dll
+END
+post-build events.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/post-build%20events.txt
+END
+ApexSql.DataDiff.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.DataDiff.dll
+END
+ApexSql.Engine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Engine.dll
+END
+ApexSql.Diff.Api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Diff.Api.xml
+END
+ApexSql.Common.Dependency.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.Dependency.dll
+END
+ApexSql.Backup.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Backup.dll
+END
+DynLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/DynLib.dll
+END
+ApexSql.Common.CommonLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.CommonLib.dll
+END
+ApexSql.Diff.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Diff.dll
+END
+ApexSql.Common.ExceptionReporter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.ExceptionReporter.dll
+END
+references.JPG
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/references.JPG
+END
+Licenses.licx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/Licenses.licx
+END
+ApexSql.Diff.Api.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Diff.Api.dll
+END
+ApexSql.Common.ZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.ZipLib.dll
+END
+CsSCC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/CsSCC.dll
+END
+ApexSql.SourceControl.Interfaces.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.SourceControl.Interfaces.dll
+END
+ApexSqlDiffApi2008Activation.exe
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSqlDiffApi2008Activation.exe
+END
+ApexSql.Common.SourceControl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.SourceControl.dll
+END
+ApexSql.Common.Activation.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/GUIBase/!svn/ver/5/trunk/AppUpdater/ActualizadorApp.System/Assemblies/ApexSql.Common.Activation.dll
+END

@@ -1,0 +1,15 @@
+*.obj
+*.pdb
+*.config
+*.txt
+*.xml
+actualizador.config.xml
+ActualizadorApp.exe
+ActualizadorApp.System.dll
+ActualizadorApp.System.pdb
+ConfiguradorActualizaciones.exe
+ConfiguradorActualizaciones.pdb
+ConfiguradorActualizaciones.vshost.exe
+ConfiguradorActualizaciones.vshost.exe.manifest
+
+
